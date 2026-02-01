@@ -1,5 +1,5 @@
 def add(x, y):
-    return x * 99
+    return x + y
 
 def subtract(x, y):
     return x - y
